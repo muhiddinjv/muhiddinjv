@@ -1,5 +1,8 @@
-https://github.com/muhiddinjv/muhiddinjv/assets/50528874/f4078c22-6d7b-4ec6-9657-d2b66ecc41c0
+
+<video width="630" height="300" src="https://github.com/muhiddinjv/muhiddinjv/assets/50528874/f4078c22-6d7b-4ec6-9657-d2b66ecc41c0.mp4"></video>
+
 <!--
+https://github.com/muhiddinjv/muhiddinjv/assets/50528874/f4078c22-6d7b-4ec6-9657-d2b66ecc41c0
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhiddinjv)](https://github.com/anuraghazra/github-readme-stats)
 ![AltText](https://raw.githubusercontent.com/muhiddinjv/muhiddinjv/main/dino.gif)
 
