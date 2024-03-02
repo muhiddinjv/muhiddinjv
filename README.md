@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhiddinjv)](https://github.com/anuraghazra/github-readme-stats)
-[](https://raw.githubusercontent.com/muhiddinjv/muhiddinjv/main/dino.gif)
+![AltText](https://raw.githubusercontent.com/muhiddinjv/muhiddinjv/main/dino.gif)
 
 <!--
 **muhiddinjv/muhiddinjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
