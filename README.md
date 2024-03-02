@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhiddinjv)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhiddinjv)](https://github.com/anuraghazra/github-readme-stats)-->
 ![AltText](https://raw.githubusercontent.com/muhiddinjv/muhiddinjv/main/dino.gif)
 
 <!--
