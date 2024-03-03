@@ -1,5 +1,5 @@
 <img width="930" height="550" alt="your alt text" src="https://raw.githubusercontent.com/muhiddinjv/muhiddinjv/main/juniorVSsenior.gif" />
-[source](https://www.youtube.com/watch?v=hJbjLaCJd6g)
+![source](https://www.youtube.com/watch?v=hJbjLaCJd6g)
 <!--
 <video width="100" height="100" src="https://github.com/muhiddinjv/muhiddinjv/assets/50528874/f4078c22-6d7b-4ec6-9657-d2b66ecc41c0.mp4"></video> 
 https://github.com/muhiddinjv/muhiddinjv/assets/50528874/f4078c22-6d7b-4ec6-9657-d2b66ecc41c0
